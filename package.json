@@ -1,0 +1,23 @@
+{
+  "name": "all-the-patterns",
+  "version": "1.0.0",
+  "description": "What's a better way to understand the es2015 - 2017 features than to write them yourself.",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^17.0.3"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamPedley/ES2015-2017-Polyfills.git"
+  },
+  "author": "Sam Pedley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SamPedley/ES2015-2017-Polyfills.git"
+  },
+  "homepage": "https://github.com/SamPedley/ES2015-2017-Polyfills.git"
+}
